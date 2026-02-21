@@ -1,0 +1,55 @@
+{
+  "dateStart": 0,
+  "dateEnd": 0,
+  "description": "Силовая программа на 2-3 месяца из четырех модулей (четыре дня в неделю), первый тренировочный день.",
+  "trains": [
+    {
+      "nameWorkout": "Жим лежа ногами",
+      "repetitionWeight": [10, 10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 1
+    },
+    {
+      "nameWorkout": "Голень сидя",
+      "repetitionWeight": [12, 12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 1
+    },
+    {
+      "nameWorkout": "Жим штанги лежа",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 2
+    },
+    {
+      "nameWorkout": "Разводка гантелей лежа",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 2
+    },
+    {
+      "nameWorkout": "Трицепс на блоке",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Подьем гантелей в стороны",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Жим штанги на бицепс",
+      "repetitionWeight": [10, 10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Пресс",
+      "repetitionWeight": [50, 50, 50, 50],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    }
+  ]
+}

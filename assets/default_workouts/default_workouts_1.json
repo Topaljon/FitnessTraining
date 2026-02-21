@@ -1,0 +1,73 @@
+{
+  "dateStart": 0,
+  "dateEnd": 0,
+  "description": "Силовая программа на 8-12 недель",
+  "trains": [
+    {
+      "nameWorkout": "Приседания с широкой стойкой ног",
+      "repetitionWeight": [10, 10, 8, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 1
+    },
+    {
+      "nameWorkout": "Сгибания ног в тренажере лежа",
+      "repetitionWeight": [15, 15, 15, 15],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 1
+    },
+    {
+      "nameWorkout": "Жим штанги лежа широким хватом",
+      "repetitionWeight": [12, 10, 8, 6],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 2
+    },
+    {
+      "nameWorkout": "Сведения рук в кроссовере",
+      "repetitionWeight": [15, 15, 15, 15],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 2
+    },
+    {
+      "nameWorkout": "Тяга на блоке к себе",
+      "repetitionWeight": [12, 10, 8, 6],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Римский стул с грузом",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Жим штанги стоя",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 4
+    },
+    {
+      "nameWorkout": "Шраги в тренажере",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 4
+    },
+    {
+      "nameWorkout": "Подъем штанги на бицепс на скамье скотта",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Французский жим штанги лежа",
+      "repetitionWeight": [12, 10, 8, 6],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Пресс",
+      "repetitionWeight": [50, 50, 50, 50],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    }
+  ]
+}

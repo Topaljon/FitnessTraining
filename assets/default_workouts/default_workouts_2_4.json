@@ -1,0 +1,55 @@
+{
+  "dateStart": 0,
+  "dateEnd": 0,
+  "description": "Силовая программа на 2-3 месяца из четырех модулей (четыре дня в неделю), четвертый тренировочный день.",
+  "trains": [
+    {
+      "nameWorkout": "Подтягивание широким хватом",
+      "repetitionWeight": [12, 12],
+      "weightEquipment": [0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Подтягивание узким хватом",
+      "repetitionWeight": [6, 6, 5, 5],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Подтягивание обратным хватом",
+      "repetitionWeight": [10, 10, 9, 9, 9],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Протяжка штанги к подбородку широким хватом",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Жим сидя в машине смита",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Голень на прямых носках",
+      "repetitionWeight": [20, 20, 20, 20, 20],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Голень на носках в стороны",
+      "repetitionWeight": [20, 20, 20, 20],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Голень на носках, направленные в внутрь",
+      "repetitionWeight": [20, 20, 20, 20],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    }
+  ]
+}

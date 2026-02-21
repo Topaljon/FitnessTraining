@@ -1,0 +1,55 @@
+{
+  "dateStart": 0,
+  "dateEnd": 0,
+  "description": "Силовая программа на 2-3 месяца из четырех модулей (четыре дня в неделю), второй тренировочный день.",
+  "trains": [
+    {
+      "nameWorkout": "Разгибание ног в тренажере",
+      "repetitionWeight": [30, 30, 30, 30],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 1
+    },
+    {
+      "nameWorkout": "Сгибание ног тренажере лежа",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 1
+    },
+    {
+      "nameWorkout": "Жим гирь стоя",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Французский жим штанги стоя",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Подъем штанги на бицепс обратным хватом",
+      "repetitionWeight": [12, 12, 12, 12],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Жим сидя от груди в тренажере",
+      "repetitionWeight": [12, 10, 8, 6, 4],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Разводка гантелей лежа на наклонной скамье",
+      "repetitionWeight": [10, 10, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    },
+    {
+      "nameWorkout": "Пресс",
+      "repetitionWeight": [50, 50, 50, 50],
+      "weightEquipment": [0.0, 0.0, 0.0, 0.0],
+      "setOfExercises": 0
+    }
+  ]
+}

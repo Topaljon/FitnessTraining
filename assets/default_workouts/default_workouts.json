@@ -1,0 +1,37 @@
+{
+  "dateStart": 0,
+  "dateEnd": 0,
+  "description": "Силовая программа",
+  "trains": [
+    {
+      "nameWorkout": "Жим штанги лёжа",
+      "repetitionWeight": [10, 10, 8],
+      "weightEquipment": [0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Жим штанги стоя",
+      "repetitionWeight": [12, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Тяга штанги в наклоне",
+      "repetitionWeight": [12, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Приседания со штангой",
+      "repetitionWeight": [12, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    },
+    {
+      "nameWorkout": "Становая тяга",
+      "repetitionWeight": [12, 10, 10],
+      "weightEquipment": [0.0, 0.0, 0.0],
+      "setOfExercises": 3
+    }
+  ]
+}

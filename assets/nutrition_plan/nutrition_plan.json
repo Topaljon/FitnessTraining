@@ -1,0 +1,111 @@
+{
+  "nutritionPlan": {
+    "goal": "Набор массы",
+    "calories": 2800,
+    "protein": 180,
+    "fats": 80,
+    "carbs": 350,
+    "meals": [
+      {
+        "name": "Завтрак",
+        "items": [
+          {
+            "name": "Овсянка на молоке",
+            "weightGrams": 100,
+            "kcal": 350,
+            "protein": 12,
+            "fats": 10,
+            "carbs": 50
+          },
+          {
+            "name": "Яйца варёные",
+            "weightGrams": 120,
+            "kcal": 170,
+            "protein": 14,
+            "fats": 11,
+            "carbs": 1
+          }
+        ]
+      },
+      {
+        "name": "Обед",
+        "items": [
+          {
+            "name": "Гречка варёная",
+            "weightGrams": 150,
+            "kcal": 160,
+            "protein": 5,
+            "fats": 2,
+            "carbs": 35
+          },
+          {
+            "name": "Куриная грудка",
+            "weightGrams": 180,
+            "kcal": 310,
+            "protein": 45,
+            "fats": 8,
+            "carbs": 0
+          },
+          {
+            "name": "Овощи на пару",
+            "weightGrams": 100,
+            "kcal": 50,
+            "protein": 2,
+            "fats": 0,
+            "carbs": 10
+          }
+        ]
+      },
+      {
+        "name": "Перекус",
+        "items": [
+          {
+            "name": "Творог 5%",
+            "weightGrams": 200,
+            "kcal": 200,
+            "protein": 28,
+            "fats": 10,
+            "carbs": 6
+          },
+          {
+            "name": "Банан",
+            "weightGrams": 120,
+            "kcal": 105,
+            "protein": 1,
+            "fats": 0,
+            "carbs": 27
+          }
+        ]
+      },
+      {
+        "name": "Ужин",
+        "items": [
+          {
+            "name": "Рис длиннозерный",
+            "weightGrams": 150,
+            "kcal": 180,
+            "protein": 4,
+            "fats": 1,
+            "carbs": 40
+          },
+          {
+            "name": "Говядина тушеная",
+            "weightGrams": 150,
+            "kcal": 300,
+            "protein": 32,
+            "fats": 20,
+            "carbs": 0
+          },
+          {
+            "name": "Огурцы свежие",
+            "weightGrams": 100,
+            "kcal": 15,
+            "protein": 0,
+            "fats": 0,
+            "carbs": 3
+          }
+        ]
+      }
+    ]
+  }
+}
